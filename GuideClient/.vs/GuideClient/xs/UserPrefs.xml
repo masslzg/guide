@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{03F3E6BE-D680-7025-539B-F07E31588415}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HomeController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PPTController.cs" Line="197" Column="6" />
+      <File FileName="Assets/Scripts/MainController.cs" Line="41" Column="25" />
+      <File FileName="Assets/Scripts/MediaController.cs" />
+      <File FileName="Assets/Scripts/TouchTransformationManager.cs" />
+      <File FileName="Assets/Scripts/DrawController.cs" />
+      <File FileName="Assets/Scripts/MenuController.cs" Line="77" Column="38" />
+      <File FileName="Assets/Scripts/ImageController.cs" Line="29" Column="24" />
+      <File FileName="Assets/Scripts/HomeController.cs" Line="13" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GuideClient" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="File" expanded="True" />
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="37fbd776-c022-4868-afc9-7dc9e399af60" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
